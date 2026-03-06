@@ -2,8 +2,7 @@
 import tkinter as tk 
 import pygame
 from pynput import keyboard
-#  for watching this type of content subscribe
-# source code in description
+#
 
 pygame.mixer.init()
 
